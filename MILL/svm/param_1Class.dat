@@ -1,0 +1,8 @@
+@kernel
+type radial
+gamma 0.001
+@parameters
+distribution
+nu 0.1
+C 100
+epsilon 0.01

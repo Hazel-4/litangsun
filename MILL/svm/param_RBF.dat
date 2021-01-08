@@ -1,0 +1,8 @@
+@kernel
+type radial
+gamma 0.05
+@parameters
+pattern
+C 100
+epsilon 0.01
+verbosity 1 

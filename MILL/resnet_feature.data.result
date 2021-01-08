@@ -1,0 +1,10 @@
+
+Processing Filename: resnet_feature.data
+Classifier:bag_MI_SVM -Kernel 1 ¨CKernelParam 0.1 -CostFactor 1 -NegativeWeight 1 -Threshold 0.5
+Message: Cross Validation, Folder: 5,  Shuffled 
+ACC = 84.632246, 
+
+Processing Filename: resnet_feature.data
+Classifier:bag_MI_SVM -Kernel 1 ¨CKernelParam 0.1 -CostFactor 1 -NegativeWeight 1 -Threshold 0.5
+Message: Cross Validation, Folder: 5,  Shuffled 
+ACC = 83.964753, 
